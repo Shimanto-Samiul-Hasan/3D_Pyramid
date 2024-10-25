@@ -117,7 +117,7 @@ We welcome contributions to the project! If you have suggestions or enhancements
 5. Create a pull request.
 
 ## Final Output of the Program
-![Alt text](assets/gif.gif)
+![Alt text](assests/gif.gif)
 
 ## Acknowledgments
 - Thanks to the DirectX community and documentation for invaluable resources.
