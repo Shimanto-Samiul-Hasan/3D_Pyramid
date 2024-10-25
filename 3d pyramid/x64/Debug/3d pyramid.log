@@ -1,0 +1,6 @@
+﻿  3d pyramid.cpp
+3d pyramid.obj : error LNK2019: unresolved external symbol Direct3DCreate9 referenced in function WinMain
+3d pyramid.obj : error LNK2019: unresolved external symbol D3DXCreateFontW referenced in function "long __cdecl Objects_Init(struct HWND__ *)" (?Objects_Init@@YAJPEAUHWND__@@@Z)
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\SDUST\4th Year\Game Programming\repo\3d pyramid\x64\Debug\3d pyramid.exe : fatal error LNK1120: 2 unresolved externals
